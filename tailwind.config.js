@@ -4,9 +4,14 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        grey_c: "#83869A",
+        gray_c: "#83869A",
         orange_c: "#FF6F48",
-        pink_c: "#F02AA6"
+        pink_c: "#F02AA6",
+        darkblue_c: "#13183F",
+      },
+
+      width: {
+        94: "343px",
       },
     },
   },
